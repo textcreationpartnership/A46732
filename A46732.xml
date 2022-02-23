@@ -1,0 +1,937 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ and his saints spending their time together day and night: or, Christ and his saints. 1. Walking together in the fields, by day. 2. Lodging in the village, by night. 3. Early-rising together for the heavenly vineyards every morning. Beeing the substance of sundry sermons upon Cant. 7. 11, 12. By Christopher Jelinger, minister of the Gospel at South-Brent in Devon.</title>
+            <author>Jelinger, Christopher.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46732</idno>
+            <idno type="STC">Wing J540</idno>
+            <idno type="STC">ESTC R215425</idno>
+            <idno type="EEBO-CITATION">99827313</idno>
+            <idno type="PROQUEST">99827313</idno>
+            <idno type="VID">31731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1891:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ and his saints spending their time together day and night: or, Christ and his saints. 1. Walking together in the fields, by day. 2. Lodging in the village, by night. 3. Early-rising together for the heavenly vineyards every morning. Beeing the substance of sundry sermons upon Cant. 7. 11, 12. By Christopher Jelinger, minister of the Gospel at South-Brent in Devon.</title>
+                  <author>Jelinger, Christopher.</author>
+               </titleStmt>
+               <extent>[10], 72, 72-80, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Brewster, at the sign of the Crane in Pauls-Churchyard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Song of Solomon --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31731:1" rendition="simple:additions"/>
+            <pb facs="tcp:31731:1"/>
+            <p>CHRIST And His SAINTS, Spending their time together Day and Night: OR, Chriſt and his Saints.</p>
+            <list>
+               <item>1. Walking together in the Fields, by Day.</item>
+               <item>2. Lodging in the Villages, by Night.</item>
+               <item>3. Early-Riſing together for the heavenly Vineyards e<g ref="char:EOLhyphen"/>very Morning.</item>
+            </list>
+            <p>Beeing the ſubſtance of ſundry Sermons upon <hi>Cant.</hi> 7.11, 12.</p>
+            <p>By <hi>Chriſtopber Jelinger,</hi> Miniſter of the Goſpel at <hi>South-Brent</hi> in <hi>Devon.</hi>
+            </p>
+            <p>Printed for <hi>Edward Brewſter,</hi> at the ſign of the Crane in Pauls-Churchyard. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31731:2"/>
+            <pb facs="tcp:31731:2"/>
+            <opener>
+               <salute>To the Right Worſhip-the MAjOR, and to his Brethren; and to all the Inhabitants of the town of <hi>Plimpton,</hi> together with the reſt of my loving hearers of the Gentrie, and others who dwel in the adjacent Countrie. Grace bee unto you, and peace from God the Father, and from our Lord Jeſus Chriſt.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was meet that theſe Sermons ſhould firſt come to your publick view, be<g ref="char:EOLhyphen"/>ing dedicated <hi>to you,</hi> be<g ref="char:EOLhyphen"/>cauſe
+<pb facs="tcp:31731:3"/>they were firſt prea<g ref="char:EOLhyphen"/>ched <hi>among you.</hi>
+            </p>
+            <p>But I hope you do not think that the ſole hearing, or reading of them, will bring your ſouls to hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Heaven muſt bee taken by violence, <hi>For the King<g ref="char:EOLhyphen"/>dom of Heaven ſuffer<g ref="char:EOLhyphen"/>eth violence, and the vi<g ref="char:EOLhyphen"/>olent take it by force,</hi> Mat. <hi>11.12.</hi> And there<g ref="char:EOLhyphen"/>fore you muſt offer an holy violence to your own na<g ref="char:EOLhyphen"/>tures, every one of you, muſt
+<note n="*" place="margin">
+                  <hi>Iſa.</hi> 64</note> ſtir up your ſelvs, and lay hold on God him<g ref="char:EOLhyphen"/>ſelf, must labour hard
+<pb facs="tcp:31731:3"/>with your ſelves, and with the God of heaven, and force heaven.</p>
+            <p>Heaven hath a new title,
+<note place="margin">
+                  <hi>Mat<g ref="char:punc">▪</g>
+                  </hi> 7 14.</note> and ſtreight gate; for ſtreight is the gate which leads to life, and therefore you muſt ſtrive to enter. Be as wiſe as Serpents, ſaith Chriſt, <hi>Mat. 10.16.</hi>
+            </p>
+            <p>Serpents will go to a rock, &amp; creep into the nar<g ref="char:EOLhyphen"/>row clefts or holes of it, to ſtrip off their old skins, when they are old, that they may becom young again; let your wiſdoms match theirs, and let Chriſt, with his ſtrictneſs, which is the
+<pb facs="tcp:31731:4"/>ſtreight gate of heaven, bee your rock, &amp; do you there<g ref="char:EOLhyphen"/>at exerciſe your ſelvs, ſtrip your ſelvs, and force your ſelvs to becom new, labou<g ref="char:EOLhyphen"/>ring hard to put off the old man, and to put on the new man, which is created after God, in true holineſs and righteouſneſs, that ſo doing you may com to heaven.</p>
+            <p>I beſeech you mark what I ſay, this you muſt do by faith in Chriſt; for with<g ref="char:EOLhyphen"/>out him you can do nothing, <hi>John 15.5.</hi>
+            </p>
+            <p>Without him you cannot come off from your houſes of clay and ſin, to walk
+<pb facs="tcp:31731:4"/>with him over the fields of Contemplation, there to me<g ref="char:EOLhyphen"/>ditate. Without him you cannot forego your old lod<g ref="char:EOLhyphen"/>gings of ſinful and ſenſual delights, to go with him o<g ref="char:EOLhyphen"/>ver his pleaſant villages, there to lodg: without him you cannot leav your beds of eaſe, and reſt, to break your beloved ſleep, and to riſe early enough to get with him to his heavenly vineyards, there to reſt.</p>
+            <p>It is ſaid, that when Chriſt had preached much to his leſt beloved diſciples of watching, hee cloſed up his lecture at laſt with this
+<pb facs="tcp:31731:5"/>moſt ſeaſonable Scripture, <hi>And what I ſay unto you, I ſay to all, watch,</hi> Mark <hi>13.37.</hi>
+            </p>
+            <p>So I, having ſpoken much of ſtriving to you, ny dearly beloved Audi<g ref="char:EOLhyphen"/>tors, I winde up and finiſh my diſcourſe in like man<g ref="char:EOLhyphen"/>ner, ſaying, And what I write unto you I write un<g ref="char:EOLhyphen"/>to all, <hi>Strive.</hi>
+            </p>
+            <p>That is, ſtrive to deny your ſelvs, and to overcom ſleep: ſtrive to ſtir up your ſelvs &amp; to vanquiſh ſloth: ſtrive to conquer your ſelvs, and to have more ſweet communion with
+<pb facs="tcp:31731:5"/>Christ himſelf. ſtrive to walk more with him, to lodg more with him, to riſe more with him, that when you have been dead and buried, you may bee glori<g ref="char:EOLhyphen"/>ouſly raiſed again by him out of your graves at the laſt day; and beeing rai<g ref="char:EOLhyphen"/>ſed by him, reſt and reign with him, and walk with him arm in arm, together with all the holy Angels, and all the truly worthy that ever lived, beeing lif<g ref="char:EOLhyphen"/>ted up to the higheſt perfe<g ref="char:EOLhyphen"/>ction of bliſs, endleſs peace, and bleſſed immor<g ref="char:EOLhyphen"/>talitie,
+<pb facs="tcp:31731:6"/>to bee enjoied to all eternitie. So praieth</p>
+            <closer>
+               <signed>
+                  <hi>Your faithful friend and humble ſer<g ref="char:EOLhyphen"/>vant in Chriſt,</hi>
+Chriſtopher Jelinger.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31731:6"/>
+            <head>TEXT.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Canticles. 7.11, 12.</hi>
+                  </bibl>
+                  <p>Come my beloved, let us goe forth into the Field, let us lodge in the Villa<g ref="char:EOLhyphen"/>ges: let us goe early to the Vineyards.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I looke upon a Towns life, firſt, and then upon that which we live in the Country, I conclude that Townes, and Townes-men, are more happy, becauſe they live an eaſier life, and are not ſo pe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<g ref="char:EOLhyphen"/>red with a world of buſineſſes and Country work, as men are in the Country; but when I reflect back upon my <hi>Te<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> I begin to b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck in my thoughts, and am in a ſtraight
+<pb n="2" facs="tcp:31731:7"/>betwixt two, as not knowing whe<g ref="char:EOLhyphen"/>ther a Towne or Citty be happier then the country, or the Country happyer then either, becauſe I ſee by it how much a devout ſoul de<g ref="char:EOLhyphen"/>ſires to be in it, by ſaying to Jeſus Chriſt, <hi>Come my beloved, let us walke into the field,</hi> &amp;c. And my finall determination is this, that neither Townſmen nor Country<g ref="char:EOLhyphen"/>men are or can be happy indeed, unleſs they have Chriſt with them indeed, and that if Chriſt be with them, and centred among them, both are happy <hi>alike,</hi> becauſe Chriſt is neere to both <hi>alike,</hi> and becauſ as lines in a Circumference their pious multitudes do al meet in their center Chriſt, being all a<g ref="char:EOLhyphen"/>like for Chriſt.</p>
+            <p>Now for their ſake eſpecially who groan under country burdens I have culed out this precious ſcri<g ref="char:EOLhyphen"/>pture that by it they may be taught what to do when they are under a Country Preſſure as namely, that they muſt come to Chriſt to have him come along into their field, and Villages with
+<pb n="3" facs="tcp:31731:7"/>them, that there he may diſpence his love unto them.</p>
+            <p>Yet ſo as that Citizens, and Townesmen are not to be ſeclu<g ref="char:EOLhyphen"/>ded from them, for I ſhall but o<g ref="char:EOLhyphen"/>ſtend and ſhew, how the Country life alſo, marke but alſo, is capable of, and fit for the exerciſe of that love, which is betwixt Chriſt and his eſpouſed Saints, thereby leaving roome and place for Townesmen and Citizens, among whom Chriſt takes place.</p>
+            <p>The occaſion of theſe words ſome do Prompt from the 6 Chap<g ref="char:EOLunhyphen"/>ter, of this Book Verſe, 11. unto which this <hi>Text</hi> doth looke for there Chriſt is al for the Field, for Gar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, for Vinyards to ſee the fruit thereof, and therefore the Church here is ſo too even al bent for the field too, ſaying, <hi>come my be loved, let us go into the Field,</hi> &amp;c.</p>
+            <p>Where three things are nomi<g ref="char:EOLhyphen"/>nated, to which her gracious ſelfe the Church of Chriſt I meane in her ſervent, &amp; flaming love is car<g ref="char:EOLhyphen"/>ried.</p>
+            <pb n="4" facs="tcp:31731:8"/>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>She is for the Field.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  <hi>For Villages.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  <hi>For Vinyards.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>Or for a Holy walk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng with Chriſt by day.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  <hi>Lodging with Chriſt by Night.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  <hi>Early Riſing with Chriſt in the Morning.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>She is for the field, ſaying, Come my beloved, let us go into the Field; where we have</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>a Compellation.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  <hi>an Excitation.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  A compellation, <hi>My beloved</hi> or <hi>friend,</hi> For the Hebrew ſignifieth both.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  An excitation, <hi>Come, let us go forth into the Field.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>Come.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  <hi>Let us go forth.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  <hi>Into the field.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>Come,</hi> the Hebrew is a word which alſo ſignifieth to be at lea<g ref="char:EOLhyphen"/>ſure, and ſo the ſenſe is, can you be at leaſure.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  <hi>Let us go forth,</hi> or go out, for ſo much alſo I find in originall, or
+<pb n="5" facs="tcp:31731:8"/>if ſhe had been immur'd or ſtraight<g ref="char:EOLhyphen"/>ened, and ſhut up in a narrow com<g ref="char:EOLhyphen"/>paſſed alluding thereby to the na<g ref="char:EOLhyphen"/>row room which the Jewiſh church did cover, as ſome would have, it.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  <hi>Into the field</hi> The Hebrew is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which alſo ſignifieth a coun<g ref="char:EOLhyphen"/>try <hi>Gregory</hi> hereby underſtands, the world; <hi>Tomſon</hi> tels, us that he allu<g ref="char:EOLhyphen"/>deth to thoſe, who being in love are wont to go forth into the field and country, that there the more freely they may be merry.
+<note n="*" place="margin">
+                  <hi>Jun. et Termall</hi> in Loc.</note> others ſay, that her meaning is this do not reſerve thy ſelf wholly for thy ſelf, thinking upon that bleſſed day, when we ſhall meet in glorie, but let us joyne both. For I alſo deſire to think and to conferre about that bleſs'd time when we ſhall be for ever together in joy, I for my part being free to both Myſticall and litterall ſenſes, yet ſhall ſtick to the latter moſt, having ſuch an origi<g ref="char:EOLhyphen"/>nall copie before me, which leads and carrieth me for and to it, yet ſo, as that I ſhal not be unmindful of the my ſtical field of contem<g ref="char:EOLhyphen"/>plation
+<pb n="6" facs="tcp:31731:9"/>into which ſoules do walk, who walke abroad for their Heavenly recreation.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  But let us ſee next how the church is for villages, or for lodging with Chriſt by night.</p>
+            <p>
+               <hi>Let us lodge in the villages.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>Let us lodge,</hi> or lie by night, as the Hebrew hath it, as if ſhe ſhould ſay, I do not deſire to live as I did formerly, when I ſlept whole nights carleſly, nor will I be found unready at thy coming; No, I am aſhamed now of my former oſcitancie, and I am now bent to ſpend day and night in the
+<note place="margin">
+                  <hi>Jun et Tremell</hi> in Loc.</note> obſerving of the ſignes of thy glorious appearing.</p>
+            <p>Or thus, let us take the night too, to ſolace our ſelves together with our mutuall ſociety, for I deſire to ſpend even day and night with thee, o ſweet Jeſus, whom my ſoule ſo dearely loves; or thus, let us even lie together by night, and wake to gether by night, for I do not deſire to ſpend all the night in ſleeping. No but I deſire to be up
+<pb n="7" facs="tcp:31731:9"/>ſome times
+<note n="*" place="margin">
+                  <hi>Tomſon</hi> in Loc.</note> to behold by night the maker of the heaven of the <hi>Plei<g ref="char:EOLhyphen"/>ades</hi> of <hi>Orion Arcturus</hi> &amp; of the reſt of thoſe glorious ſtarres which ſo glitter by night for mans delight or thus to contemplate that great and glorious, eſſence which com<g ref="char:EOLhyphen"/>mutes the thickeſt darkeſt into the brighteſt morning, and the day into the darkeſt night. <hi>Amos</hi> 5.8.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. In the villages <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſome render <hi>ad Cyp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> to <hi>Cypres</hi> becauſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifieth <hi>Cyperes</hi> that is certaine Grapes, which grow in <hi>Cyprus,</hi> Others take it to be a cer<g ref="char:EOLhyphen"/>taine ſort of ſpice called Camphyr <hi>Cant.</hi> 1.14, but becauſe the ſame word ſignifieth
+<note n="*" place="margin">
+                  <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> iſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m 6.8. hebr.</note> villages to and agrees with lodging better I re<g ref="char:EOLhyphen"/>taine villages, whereby ſome un<g ref="char:EOLhyphen"/>derſtand the
+<note n="*" place="margin">
+                  <hi>Gregu</hi> in Loc.</note> gentiles, others alive ſoules, ſuch as are in countrie vil<g ref="char:EOLhyphen"/>lages others
+<note n="*" place="margin">
+                  <hi>Theodor</hi> in Loc.</note> thoſe ſoules which have given up their names to Chriſt.
+<note n="*" place="margin">
+                  <hi>Expoſi t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 3 <hi>Patrum</hi> in Lock.</note>
+            </p>
+            <p>I for my part underſtand firſt the country literally, and hearts Myſtically, that is, Chriſts heart
+<pb n="8" facs="tcp:31731:10"/>and the churches heart, in the which both do mutually lodge.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  The laſt thing is the churches early riſing with Chriſt in the morning, <hi>Let us get up early to the vineyards;</hi> as if ſhe ſhould ſay, let us riſe very early and be up before the Sun is up to behold thoſe trem<g ref="char:EOLhyphen"/>bling and be fore the approaching day flying torches of Heaven, and to ſalute the faire and plea<g ref="char:EOLhyphen"/>ſant morning caried, in its golden chariot, and that we may con<g ref="char:EOLhyphen"/>template that vaſt and ad<g ref="char:EOLhyphen"/>mirable flame, the Sun I meane peeping forth with its yellow and golden locks. in the canopy of Heaven, to fill the whole earth with its glorious light, after all that darkneſſe which covered it before by night or thus, &amp; then let us riſe ſweet Jeſus, I with thee and thou with me, for I deſire &amp; long to ſee thee who art my light my joy, my Sun, my Sun of righousneſſe, that Sun which lighteneth the world with its brightneſſe, and fills the whole earth with its war<g ref="char:EOLhyphen"/>neſſe,
+<pb n="9" facs="tcp:31731:10"/>is very comfortable, but thou art much more, when as a Bridgroome thou comeſt forth out of heaven, and ſheweſt forth the brightneſs of thy face to make me glad on earth, and therefore<g ref="char:punc">▪</g> I do ſo deſire to enjoy thee.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q </seg>
+               </label> Q. But what are theſe vineyards I anſwer ſome ſay,
+
+<note n="*" place="margin">
+                  <hi>Lyra</hi> in Loc.</note> 
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> churches
+<note n="*" place="margin">
+                  <hi>Theodor</hi> in Loc.</note> o<g ref="char:EOLunhyphen"/>thers thoſe who have received the preaching of the Goſpel, as if the Church ſhould ſay, I meane thoſe precious ſoules, which together with me have obtained the like pretions faith, and beene made partakers of the like penetrating and ſoule-ſearching Goſpel-prea<g ref="char:EOLhyphen"/>ching; to theſe my very hearts deſire is to go and ſee them with my beſt beloved, ſaith, the Church to Jeſus Chriſt to whom ſhe is by the ſame moſt precious ſaith eſpo<g ref="char:EOLhyphen"/>uſed for my part I underſtand ſuch too but not only ſuch for I take theſe vinyards, to be the Heavenlie manſions alſo filled with glorified Saints which are the vines thereof now let us gather roſes which<g ref="char:punc">▪</g>
+               <pb n="10" facs="tcp:31731:11"/>grow in this Scriptures garden.</p>
+            <p n="1">1. I And obſerve hence.
+<note place="margin">1 Do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</note>
+            </p>
+            <p>That the countrie and a coun<g ref="char:EOLhyphen"/>try-life alſo is capable of, and fit for the exerciſe or manifeſtation of that love which is betweene Chriſt and his eſpouſed Saints for the illuſtration hereof theſe.</p>
+            <p n="2">2. Queries will be propoſed and muſt be reſolved.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Qu </seg>1</label> The 1. is how it is ſo.</p>
+            <p>The, 2. is why it is ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> For the 1. I anſwer to it if Chriſt be in it,
+For therefore the ſpouſe ſaith to them, Come, becauſe ſhe knew that elſe ſhe could not do wel; for what is the Country without him, but an arke of travell, a ſchoole of vanities, a meer labyrinth, a bar<g ref="char:EOLhyphen"/>ren wilderneſſe a dirty ſtie, a tem<g ref="char:EOLhyphen"/>peſtuous Sea a medow ful of ſcor<g ref="char:EOLhyphen"/>pions a garden full of baſilikes a fountaine of miſeries, a river of teares, a ſeat where there is but falſe deceit, travell ſome labour, fearefull reſts grievous miſeries, a place in which is little alſo but
+<pb n="11" facs="tcp:31731:11"/>Shame, Repentance, Sorrow, Re<g ref="char:EOLhyphen"/>proach, a Center, in which all theſe tragedies, as lines in a circle do meet, as namely, Travel with<g ref="char:EOLhyphen"/>out Fruit, Sorrow without Pro<g ref="char:EOLhyphen"/>fit, Deſire without ſucceſſe, Hope without Remorſe, Mirth without Duration, miſeries without Reme<g ref="char:EOLhyphen"/>dies. Thus we ſpeak of the Coun<g ref="char:EOLhyphen"/>try, if Chriſt be not there; but if he be, al theſe miſeries cannot hin<g ref="char:EOLhyphen"/>der the operation of that love which is betwixt him, and his Eſpouſed Saints; for as that tree in <hi>Exodus,</hi> 15.28. being in the waters of <hi>Meribah</hi> made them all ſweet, ſo doth he and will make the Country Sweet, which elſe is as bitter as Marah was.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Q. </seg>2</label> 2. But why is it ſo? </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> 
+               <hi>I Anſwer,</hi> Becauſe there alſo is that which will.</p>
+            <p n="1">1. Blow up the fire of love.</p>
+            <p n="2">2. Will feed it.</p>
+            <p n="1">1. Will blow it up, for there are roſes which will mind us of that ſweet Roſe of Sharon, Chriſt <hi>Can<g ref="char:EOLhyphen"/>tic.</hi> 2.1.</p>
+            <pb n="12" facs="tcp:31731:12"/>
+            <p>And there are Trees, which will put us upon that ſweet Tree of life Chriſt, <hi>Reuelation.</hi> 22.1.2</p>
+            <p>And there are waters which wil lead us to the water of life Chriſt. <hi>John,</hi> 4. And there are fruits in the earth, which will draw us to that fruit which the Tree of life doth beare in heaven. <hi>Revelation,</hi> 22. And is not al this able to blow up the fire of love, if any be in us, when ſuch things are repreſented, to us, being ſo lovely ſo amiable and ſo Delicious.</p>
+            <p n="2">2. Will feed it, for in the Co<g ref="char:EOLhyphen"/>untry or Fields, are hearbs of all ſorts good, not onely for food but alſo for Phyſick, able not only to delight, but alſo to maintaine us and ſo conſequently, able to main<g ref="char:EOLunhyphen"/>taine, to feed, to nouriſh our love to Chriſt when in them we do ſtill behold the divin nature the vertue the nouriſhment, the mightineſſe the Medicinalnes which is in Chriſt, who is like a garden of he<g ref="char:EOLhyphen"/>arbs is good for to cure al our ma ladies, for by his ſtripes we are hea<g ref="char:EOLhyphen"/>led
+<pb n="13" facs="tcp:31731:12"/>
+               <hi>Eſay,</hi> 53.5.</p>
+            <p>So that in this reſpect alſo the Country is capable, and fit for the exerciſe of that love which is be<g ref="char:EOLhyphen"/>tween Chriſt and his eſpouſed Saints, becauſe al this doth nouriſh love ſhewing forth that great and mighty Love, which is in Chriſt whom our Soules love and who by all thoſe very herbs doth manifeſt to us that mightineſſe of his love For what a love is it that he ſhews us, in that he ſo decketh the green diaperie of the earth, with ſuch a tapeſtry and variety of al ſorts of herbes for our, both food and Phy<g ref="char:EOLunhyphen"/>ſick lo ſaith the Apoſtle <hi>what man<g ref="char:EOLhyphen"/>ner of love the Father hath ſhewed us, that we ſhall be called the ſonnes of God.</hi> 1. <hi>John.</hi> 3.1. So we ſee what manner of love Chriſt doth ſhew in that we ſhall ſee ſo much of God in all theſe creaturs which were made by God the firſt uſe wil be one of Raticination,
+<label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>1</label> why then are thoſe, of the Country ſo barren in this exerciſe.</p>
+            <pb n="14" facs="tcp:31731:13"/>
+            <p>Exerciſes there are enough in the Country, there is Card-playing Dicing, Dancing, Hunting, Drin<g ref="char:EOLhyphen"/>king, Night-watching, but as for, the exerciſe of Chriſts love, O how rare is that? Secondly, For how far muſt a man goe before he ſhall ſee one goe into the field to medi<g ref="char:EOLhyphen"/>tate, to pray, to talke, and to con<g ref="char:EOLhyphen"/>verſe with Chriſt. Thirdly, Chriſt is the great'ſt ſtranger to moſt, who ſhould be their greateſt delight, and the onely companion that ſhould be deſired by moſt, but ſo it is he muſt be fartheſt off, &amp; crow<g ref="char:EOLhyphen"/>ders, muſicians, Drunkards, Gam<g ref="char:EOLhyphen"/>ſters, Company—keepers, Sab<g ref="char:EOLhyphen"/>bath-breakers, Whore-Mongers, Harlots, jeſters, ſport-makers, <hi>Rab<g ref="char:EOLhyphen"/>ſhakes,</hi> that can revile moſt, muſt be neareſt. And why my bretheren, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an you tel if you will not, or can<g ref="char:EOLhyphen"/>not, truely it is becauſe his love is not in you; for did you once love Chriſt indeed, then you would deſire to be with him, as it is meet, you would even long as much to be with him, &amp; to ſee him
+<pb n="15" facs="tcp:31731:13"/>as a Bride to ſee her Bridegroome; you would ſhew then as much love to his Perſon, as ever you did to any Perſon, your talke would b Heavenly, your walkes Heaven<g ref="char:EOLhyphen"/>ly, for ſuch are the Exerciſes of thoſe that are lovers of him, becauſ their delight is in him: but marke what I ſhal ſay; of you, who live in the Country, and uſe no ſuch Exerciſes, as are ſo Heavenly, when others whoſe, wingy Solues Hea<g ref="char:EOLhyphen"/>ven doe aſpire, ſhall mount up from this Country, which is but Earthly, into that which is Hea<g ref="char:EOLhyphen"/>venly, then you whoſe Earthly minded Soules, nothing but earth doe deſire, muſt deſcend from one Country, wherein there is no<g ref="char:EOLhyphen"/>thing but Travel and Trouble, Madneſs, and ſadneſſe, Tears and Feares, Aſperity and Adverſity, Certaine Preſſure, and uncertain Pleaſure, into another, where is but Weeping and Houling, Cry<g ref="char:EOLhyphen"/>ing, and Frying, Burning, and Blaſpheming, in a Lake, which burnes With Fire and Brimſtone,
+<pb n="16" facs="tcp:31731:14"/>for ever. <hi>Verſe.</hi> 21. &amp;c.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> 2. Vſe of Inſtruction foll<g ref="char:EOLhyphen"/>oweth Then let not the Field or Countrie impedite any of us from the Exerciſe of that love which is betwixt Chriſt and us,
+O let, none ſay I live in the Country, I cannot doe as they that live in Townes, for that is but a frivolous Excuſe, or elce the Spouſe in my would not ſo deſire to be, as Text, you are, in the Country.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>2</label> The 2.
+Doctrine followeth.</p>
+            <p>Devout and holy Soules deſire very, much to enjoy the company of Chriſt abroad as wel as at home even <hi>in Fields &amp; Villages,</hi> to ſatisfie the longing of their flaming love.</p>
+            <p>For the Illuſtration whereof, I Propoſe theſe. 3. <hi>Queries.</hi>
+            </p>
+            <p n="1">1. Qu. <hi>What that ſociety of Chriſt is, which ſuch a Soule doth ſo much deſire.</hi>
+            </p>
+            <p n="2">2. Qu. <hi>Why it deſireth it ſo.</hi>
+            </p>
+            <p n="3">3. Qu. <hi>Why abroad, as well as at home, &amp;c,</hi>
+            </p>
+            <p>
+               <hi>To the</hi> 1. Qu. <hi>I Anſwer.</hi>
+            </p>
+            <p>That it is a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>caucie,
+<note place="margin">3 <hi>Query,</hi> Reſolved.</note> as the He<g ref="char:EOLhyphen"/>brew
+<pb n="17" facs="tcp:31731:14"/>hath it, or being at leaſure after an holy and Heavenly man<g ref="char:EOLhyphen"/>ner to walke, to converſe to be with Jeſus Chriſt.</p>
+            <p>Chriſt being ſweetly, graciouſly Friendly, Familiarly, Preſent, with it, in and by, his bleſſed ſperit, all which I gather from my Text.</p>
+            <p>To the ſecond thus.</p>
+            <p n="1">1. <hi>Becauſe it is moſt comfort able.</hi>
+               <note place="margin">2 Query. Reſolved.</note>
+            </p>
+            <p n="2">2. Moſt Profitable.</p>
+            <p n="1">1. Moſt comfortable, the com<g ref="char:EOLhyphen"/>panie of a friend is ſo, eſpecially if he be of a ſweet diſpoſition Chriſt is ſo. <hi>Can.</hi> 5. <hi>the laſt,</hi> ſo in my <hi>Text,</hi> he is called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a friend, ſee, <hi>John.</hi> 14.18. which place doth Oſtend, and ſhew, that where Chriſt comes cumfort, comes joy comes, delight, comes, becauſe he is the Surge, the wel, ſpring the Fountain, yea, ocean of all, conſolation, ſo that he muſt needs therefore be a moſt ſweet and comfortable, companion.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  Moſt Profitable, for he is not onely moſt ſweet, but alſo moſt rich, <hi>Epheſians.</hi> 3.8. The Apoſtle, tels us of the unſearchable
+<pb n="16" facs="tcp:31731:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:31731:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:31731:16"/>riches of Chriſt, &amp; then <hi>Verſe.</hi> 9 of the fellowſhip of the myſtery, <hi>Verſ</hi> 3. <hi>Fellowſhip</hi> to ſhew what a Com<g ref="char:EOLhyphen"/>panion Chriſt is, how rich, how rare, how profitabl, which though it be a thing hid from the World, yet canot be hid from thoſe whoſe life is hid in Chriſt, <hi>Col.</hi> 3.3. For they find it ſo, when they walke with him ſo, as the ſpouſe here being unnailed from the World, crucified to the Fleſh, emboſo<g ref="char:EOLhyphen"/>med in God, imparadice, in Chriſt, Separated from Sinners, and Elevated to the higheſt Horiſon, of Chriſts ſweeteſt Commu<g ref="char:EOLhyphen"/>nion.</p>
+            <p>To the 3.
+<note place="margin">3 Query Reſolved.</note> 
+               <hi>Query.</hi> I <hi>Anſwer.</hi>
+            </p>
+            <p n="1">1. Becauſe the more comfor<g ref="char:EOLhyphen"/>table, then</p>
+            <p n="2">2. More profitable.</p>
+            <p n="1">1. The more Comfortable.</p>
+            <p>The more obiects, the more Aſpects, that is, the more God ſheweth himſelfe by objects to us, the more Comfort is felt by us, his pleaſant Countenance there, and then ſhining upon us, ſo that
+<pb n="19" facs="tcp:31731:16"/>as a ſpouſe, if ſhe may but ſee her beloved whereſoever ſhe comes, comes to be the more comforted by him, ſo ſoules when they may be<g ref="char:EOLhyphen"/>hold the Face of Chriſt, in all places abroad and athome in <hi>Fields</hi> and <hi>Villages,</hi> muſt needs increaſe their Heavenly Solaces.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  The more profitable when mariners do in al ports and paſſa<g ref="char:EOLhyphen"/>ges unbark riches they muſt need; be the richer ſo when devout ſoules being embark'd in Chriſt for Heaven do every where encreaſe their lading and make it ſwell by continuall additions ta<g ref="char:EOLhyphen"/>king in and with them whereſo<g ref="char:EOLhyphen"/>ever they go the perſon of Chriſt and the riches of Chriſt they muſt needs deſire or be enriched ſo much the more, that is be the more full of grace, of vertue, of good<g ref="char:EOLhyphen"/>neſſe by their daily additions. For when they are at home Chriſt br<g ref="char:EOLhyphen"/>ings home what others ſee abroad when abroad he ſpreads abroad a canopy before them repleniſhed with rareſt treaſures and richeſt jewels, to enrich their ſoules a<g ref="char:EOLhyphen"/>broad
+<pb n="20" facs="tcp:31731:17"/>broad as well as at home: everie creature which they ſee being a pearle in their eies and all creaturs together as heapes of treaſures in their minds, able to make them thrive moſt wonderfully, after they be applied by them graciouſly againe, when abroad Chriſt being with them, carries his riches his merits, his righteousneſs his ſpirit with him ſo that they may have of him what they will becauſe his will is, that they ſhould have as much as they need to make them richer ſtill.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">use </seg>
+               </label> The 1.
+ Uſe. Uſe of the Point is this.</p>
+            <p>This may ſerve as a touch-ſtone then, whereby a man may know whether his ſoul be ſuch a devout ſoule yea or no. For if it be this will be his deſire. Now how do your pulſes beat and what ſpirits are you of? is it the deſire of your ſoules then to injoy Chriſts ſweet ſociety? If it be O how happy are you? For your ſoules are married to Chriſt and your Spirits there<g ref="char:EOLhyphen"/>fore
+<pb n="21" facs="tcp:31731:17"/>may rejoyce in Chriſt: but if not, that is, if neither at home nor abroad you do enjoy nor deſire to enjoy his bleſſed communion, if when you walk abroad you goe without him, taking more felicity in a meere carnall mans or wo<g ref="char:EOLhyphen"/>mans ſociety, if when at home you are even there alſo from home, not being with Jeſus Chriſt who cau<g ref="char:EOLhyphen"/>ſeth us to be at home, that is, if you do neither mind him nor ſee him nor ſpeake with him or of him, but have fellowſhip with drun<g ref="char:EOLhyphen"/>kards, and ruffans, ſwaggerers and ſwearers, being ſuch your ſelves, or elſe impend and ſpend your time in nothing elſe but telling of newes or tales, and lies, and cal<g ref="char:EOLhyphen"/>ling of names, when you ſhould call upon Chriſts name, and keepe him company; if ſo, then I for my part make this concluſion, to come to</p>
+            <p>A 2.
+<label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> Uſe of trembling that as yet you are not aſſociated with Chriſt as others are by a connubi<g ref="char:EOLhyphen"/>all copulation, and that therefore
+<pb n="20" facs="tcp:31731:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:31731:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:31731:19"/>you muſt looke after all your ſports, games, paſtimes, fellow- merie-meetings and idle walkings up &amp; down in alehouſes tavernes in fields and villages to walk downe to hell, when after a revolution and vi ciſſitude of all your merri<g ref="char:EOLhyphen"/>ments you ſhall all be forced to obey the ſwinge of that wheel not moved by intelligences but by the hand of God whereby all do riſe and come to their zenith and predeſtinated periods. For all your lives and the whole world do run not upon a helix that ſtill enlargeth but a circle where arri<g ref="char:EOLhyphen"/>ving to their meridian they de<g ref="char:EOLhyphen"/>clin again and at laſt do fal under theis horizon again which to they all preſſe amaine ſo that your ſitting cannot be long nor your ſetting a far off, becauſe your breath it ſelfe is but ſhort and be<g ref="char:EOLhyphen"/>cauſe your courſes which you take make it ſhorter and will br<g ref="char:EOLhyphen"/>ing you ſoone to your by Gods predeſtinated doome.
+<label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>3</label>
+            </p>
+            <p>But I would not have it ſo if I
+<pb n="23" facs="tcp:31731:19"/>could help it, and therefore am reſolved to perſwade you, that if you would eſcape this doome, and make it evident to your ſelves and others, that your ſoules are ſuch devout ſoules, as are married to Chriſt, you will.</p>
+            <p n="1">1. Kindle ſuch deſires, whch are like fires.</p>
+            <p n="2">2. Shew ſuch deſires.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  that you will kindle ſuch deſires.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q </seg>
+               </label> Q. How.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> A.
+His deſire muſt be towards you, before yours, can be towards him, as here, for note but the <hi>ſeries</hi> of the context, and the concatena<g ref="char:EOLhyphen"/>tion of it with my text: firſt his deſire is towards me, ſaith ſhe, and then <hi>come,</hi> come then my brethren and becauſe you ſee this, ſay, Lord, I ſee now clearely that I cannot deſire thee, unleſſe thy deſire be firſt towards me, and therefore Lord where is that deſire of thine which muſt attract mine, O ſhew it manifeſt it, let me ſee it, let it be like fire to me, and let it kindle a
+<pb n="24" facs="tcp:31731:20"/>fire in me which may never go out even a deſire to thee I humbly be<g ref="char:EOLhyphen"/>ſeech thee.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Shew it, as thus.</p>
+            <p n="1">1. Call him, when you are going abroad to go with you.</p>
+            <p n="2">2. Take him with you.</p>
+            <p n="3">3. Talke and walke with him when you have him.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Call him, as the ſpouſe here, Come my beloved, I pray you re<g ref="char:EOLhyphen"/>member theſe words, and take them with you, I ſay as <hi>Hoſ.</hi> 14.1. ſo come Lord Jeſus, or come my beloved, let us walk <hi>into the fields.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Take him with you.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q </seg>
+               </label> Q. How?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> 
+               <hi>A.</hi>
+Take him by the hand of faith, beleeving verily that he will goe with you; here ſteele your faith with thoſ mighty &amp; precious Scriptures <hi>Cant.</hi> 4 <hi>laſt, Let my be<g ref="char:EOLhyphen"/>loved come into my Garden,</hi> and <hi>Cant.</hi> 5.1. <hi>I am come into my garder,</hi> which plainly ſhewes how willing he is to go with us and to come to us, being deſired by us.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  Walke and talke with him,
+<pb n="25" facs="tcp:31731:20"/>when he is come, &amp; you have him with you.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  Walke, as thus.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  Going out, as the Hebrew hath it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q </seg>
+               </label> 
+               <hi>Q.</hi>
+How going out?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> 
+               <hi>A.</hi>
+Not out of this world, for that cannot be but out of the care of this world, that is care for no<g ref="char:EOLhyphen"/>thing but him when you go that you may not go from him.</p>
+            <p n="2">2. Keep cloſe to him as he that walketh with his companion and is ſtill cloſe by the ſide of his com<g ref="char:EOLhyphen"/>panion ſo be you ſtill hard by him and not far from him who muſt be far from you. <hi>For in him we live we move, &amp; have our being. Act.</hi> 17.18. Oh my brethren this keeping cloſe to God, what a ſweet thing is it it linkes us with God it enſoules us in God it tieth us to God it will not ſuffer us to diſgreſs from the ſacred Laws of God therefore let us never from him go when we go abroad ſo the patriarks walk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with God and ſo may we if we will but ſtick cloſe to him wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<g ref="char:EOLhyphen"/>ing
+<pb n="26" facs="tcp:31731:21"/>abroad with him.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  So talke with him as you walke, even as two companions a man and his wife doe talke to<g ref="char:EOLhyphen"/>gether when they go into the field together; ſo let your communication be of and with Chriſt altogether, ſee <hi>Luke.</hi> 24.2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q </seg>
+               </label> 
+               <hi>Q.</hi> What ſhall we talke.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> 
+               <hi>A.</hi>
+
+               <note n="*" place="margin">
+                  <hi>Jun, et Tremel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> in Loc.</note> Two that write upon this Scripture ſay, that that great and glorious wedding which is
+<note n="*" place="margin">
+                  <hi>Rev,</hi> 12.7</note> com<g ref="char:EOLhyphen"/>ing was here the churches lect<g ref="char:EOLhyphen"/>ure. For her deſire was, ſay they, that he and ſhe might both confer about it, and therefore my adviſe and counſel is, that when you talke with or of Chriſt you make that wedding eſpecially the ſubject of your talking, as thus; tel Chriſt how much you long to ſee that day wherein thoſe your eies ſhall ſee him as he is <hi>Job</hi> 19.26. Your tongues fully praiſe him, and your ſoules, being re-organized with you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bodies highly and eternally magnifie him, when the corrupti<g ref="char:EOLhyphen"/>bility of that ſperme, <hi>Adams</hi> I meane, which hath dilated it ſelfe
+<pb n="27" facs="tcp:31731:21"/>into ſo many millions ſhal put on immortality, for this corruptible muſt put on in corruption, 1. <hi>Cor.</hi> 15. and when our retired-ſelves ſhall be no more as now we are, as for our ſelves, but rather altoge<g ref="char:EOLhyphen"/>ther for himſelfe, being our ſelves ſwallowed up in life after death ſhal be ſwallowed up in victories 1 <hi>Cor.</hi> 15.</p>
+            <p>Such let be our diſcourſes with him; againe let us tell him, how much we deſire then to be alwaies with him, and not onely to ſee him, as it is written, that we ſhall be ever with the Lord, 1. <hi>Theſs.</hi> 4. <hi>the laſt verſe.</hi>
+            </p>
+            <p>Here make a diſcourſe upon this Scripture, as thus Lord Jeſus, ſweet Saviour, how do I long to enjoy that felicity? When I ſhall be with thee to all eternity.</p>
+            <p>The Bride that hath the Bride<g ref="char:EOLhyphen"/>groome cannot poſſibly ſo much deſire the company and preſence of her beloved, as I do the ſociety of my beſt beloved. For the ſociety and preſence of an earthly Hus<g ref="char:EOLhyphen"/>band
+<pb n="28" facs="tcp:31731:22"/>is but for the preſent, but thine for ever and therefore how do I wiſh for that day when I ſhal come to enjoy thee ſo when an ea<g ref="char:EOLhyphen"/>rthly Bride &amp; Bridgroomes come together all that time ſeemeth to be but ſhort becauſe it is ſo ſweet, and ſo wil that time doubt<g ref="char:EOLhyphen"/>leſſe to me when I ſhall be with thee whereas all my time now ſeemeth to be too long becauſe I am abſent from thee and there<g ref="char:EOLhyphen"/>fore I do ſo long to enjoy thee Oh when will it be that I ſhal be with thee and give my love unto thee Oh let it no the too long too long but aſſoon as may be I humbly pray thee.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>3</label> 
+               <hi>A.</hi>
+ 3d. Doctrine followeth which I will but name.</p>
+            <p>The gathering calling and br<g ref="char:EOLhyphen"/>inging home of the blinded Gen<g ref="char:EOLhyphen"/>tiles to jeſus chriſt ſhould be much longed after by ſuch as themſelves are in a Church-ſociety with Chriſt.</p>
+            <p>
+               <hi>A.
+<note place="margin">
+                     <hi>The</hi> 4 <hi>Doct.</hi>
+                  </note> Fourth</hi> Concluſion is.</p>
+            <p>That Chriſts Saints have a
+<pb n="29" facs="tcp:31731:22"/>great deſire to lie and to lodge with Chriſt by night.</p>
+            <p>For the jlluſtration hereof I ſhall put forth and reſolve theſe two problemes.
+<note place="margin">
+                  <hi>Probl.</hi> 2</note>
+            </p>
+            <p>The 1. What it is to lie and to lodge with Chriſt by night</p>
+            <p>The 2. Why his Saints have ſuch a deſire to lie and to lodge with him ſo.</p>
+            <p>To the 1. I anſwer.
+<note place="margin">The <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Probl.</note>
+            </p>
+            <p n="1">1. It is to have him in the region of our mindes,
+<note place="margin">2. <hi>Sol.</hi>
+               </note> as <hi>Cant.</hi> 1.13. be<g ref="char:EOLhyphen"/>twixt our breſts that is in our thoughts as thus who died for me? Chriſt who roſe for me? Chriſt who aſcended for me? Chriſt who is my Love Chriſt.</p>
+            <p>This is the Saints ſweet and gracious Symploce according to <hi>Rom.</hi> 8, 34.35.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. It is to have him in the armes of our love love is unitiueit unites the lover and the beloved Chriſti<g ref="char:EOLhyphen"/>ans and transſpeciates beaſts into men men into ſpouſes the ſpouſes I mean of Jeſus Chriſt, Chriſt being collocated and cen<g ref="char:EOLhyphen"/>tred
+<pb n="30" facs="tcp:31731:23"/>by it in the boſomes of his Saints, when by night he is made the object of it in his Saints hence <hi>Cant.</hi> 7.11.</p>
+            <p>
+               <hi>There,</hi> or as the Hebrw hath it, <hi>Then will I give thee my love.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  It is to be taken into the armes of his love by night, <hi>Cant.</hi> 2.6. <hi>His left hand is under my head;</hi> and how is that? I anſwer, here I muſt breake out into this epaheticall exolamation ah thea ocean of divine conſolation?</p>
+            <p>Oh ſweetneſſe not to be uttred? Oh delights not to be expreſſed! Oh pleaſures not to be paralled! For here the devout ſoule which lodges Chriſt by night mel<g ref="char:EOLhyphen"/>teth in the armes of Chriſt by night feedeth on celeſtiall daintie, is ra<g ref="char:EOLhyphen"/>viſhed with unexpreſſible ſolaces, diſſolved into unconceivable joyes caried above humane content<g ref="char:EOLhyphen"/>ments elevated beyond the zenith of all momentanie blandiſhments ſatiated with the food of Angels extatiz'd with the injoyments of the bread of Angels.</p>
+            <pb n="31" facs="tcp:31731:23"/>
+            <p>To the, 2.
+<label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> The <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Anſwered. Probleme I anſwer thus.</p>
+            <p n="1">1. The night is no mans friend and therefore it is good, ſay his Saints, to have ſuch a friend with us, as he is (ſo called in the He<g ref="char:EOLhyphen"/>brew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) by night for our Soules delight.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The night is very uncom<g ref="char:EOLhyphen"/>fortable elſe, when nothing but darkeneſſe is over all the Earth, when neighbours are kept aſunder when Divels and ſpirits walke, when horrors and terrors poſſeſſe our ſpirit, when dreamer fright us thoughts trouble us, when Sathans envenomed arrows, which flie by night, come thick about us, which alſo cauſes Chriſts Saints ſo to deſire Chriſts company by night, becauſe even then he gives them light <hi>Epheſ.</hi> 5.14.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Nights are long, eſpecially in the winter ſeaſon, and to one that hath not his health and can<g ref="char:EOLhyphen"/>not ſleep, and therefore Chriſts Saints not being able to ſleep whole nights, and feeling them<g ref="char:EOLhyphen"/>ſelves
+<pb n="32" facs="tcp:31731:24"/>ſick with his love do ſo de<g ref="char:EOLhyphen"/>fire his company by night that they may talke with him when they cannot ſleep and ſo they may paſſe away their time by night.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. The night commonly is the Saints weeping time <hi>Pſal.</hi> 30. <hi>Weeping as for a night</hi> in Hebrew The night is called therefore Laiil which word hath a great affinity with another which ſignifieth he hath howled and lamented which alſo cauſeth the Saints ſo to deſire Chriſt by night that he may cheer them up in the night.</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. Nights are a part of life which better expreſſeth death then life. For every man, truely liveth ſo long as he acts his nature or ſome way maketh good the facul<g ref="char:EOLhyphen"/>ties of himſelfe and therefore it is good, ſay Chriſts Saints, not onley to ſleep. For that is to be dead, but to lie and to lodge with chriſt by night becauſe that is to be a live with Chriſt.</p>
+            <p n="6">
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Nights take up a great part of our time and therefore Chriſts
+<pb n="33" facs="tcp:31731:24"/>Saints who at not willing to miſs Chriſt at any time and to looſe ſo much time do ſo deſire to lodge with Chriſt by night.</p>
+            <p n="7">7. Nights are fit for the ſweeteſt enjoyments of Jeſus Chriſt. For there is as it were a divine aptneſs in our minds that time, which diſpoſeth it for contemplation in a wonderfull manner becauſe there is ſuch a ſilence then and a reſting time for the ſenſes of our bodies as that we cannot be the more fit for things of higheſt con<g ref="char:EOLhyphen"/>cernment to thinke upon Hence Sophcoles, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is a night ceartenly thou art for the moſt part a partaker of the wiſdom of God, which therefore cauſeth the Saints ſo to deſire to lodge with Chriſt by night.</p>
+            <p>I do now wheele my thoughts towards you by way of applica<g ref="char:EOLhyphen"/>tion. And.</p>
+            <p n="1">1. This point may ſerve for Communication,
+<note place="margin">1 Uſe of <hi>Communica<g ref="char:EOLhyphen"/>tion</hi>
+               </note> as This. Then how do we ſpend our Nights?
+<pb n="34" facs="tcp:31731:25"/>Nights are to be ſpent with Chriſt, as well as dayes: If we be his Saints, and yet how many are there, who ſay, that they are Saints, but can ſleepe whole Nights, &amp; never ſo much as think upon Chriſt, by Night, if any body will ſit up with them, by Night, if any body will ſit up with them by Night and goe to Cards with them, or Drink with them, or Play the Wanton with them, who but they, but let Chriſt be ſpoken for? to them, to be lodged by them, and to goe to Bed with them, and they will as much nauſeate and loath his ſociety, as if he were the loath<g ref="char:EOLhyphen"/>ſomeſt companion that ever they heard of; for they have no Mind, no Heart, no Deſired to that, that is two Tedious, that they do not reliſh, that they do not like: No, they Sleep, they ſay as well as Walke, or elſe they cannot hold out but, I aske; how can you hold out then when you goe to Cards, to Dice, to Dancing, to Play the Wanton, For that I am ſure you
+<pb n="35" facs="tcp:31731:25"/>can breake your ſleepe, but for Chriſt you cannot. And why, my Brethren, Why? Shall I tell you? The reaſon is, becauſe you know what cards are, and ſports are, and the luſts of the fleſh are, but what Chriſt is by Night you never knew ſince you knew a Night, Chriſt is, and hath been as great a ſtranger to you, as one whom you never ſaw, and therefore, a ſtrange thing it is, to ſee, how many Nights you Conſume, in ſleeping or doing that which is worſe, when you ſhould ſpend ſome part of every Night in a holy communion with Chriſt, which is farr better. But ſo it is, Chriſt, who ſhould lye even all Night betwixt your breſts lieth a farr off in the boſomes of his reall Saints, and ſome wanton Dames and Carnall Companions muſt be neere to you, becauſe the the love of Chriſt is not in you; and therefore mark what will fol<g ref="char:EOLhyphen"/>low, as now you lye whole Nights upon your beds, and never mind Chriſt whilſt you are abed: So
+<pb n="36" facs="tcp:31731:26"/>hereafter you muſt expect to lye in Hell, which will be your bed. I ſay againe in Hell, where there it is Night only and no day, dark<g ref="char:EOLhyphen"/>neſs &amp; no Lightſomeneſs, &amp; where Chriſt will be as great a ſtranger to you, as now you are to him, when Namely that great and ter<g ref="char:EOLhyphen"/>rible day of the Lord ſhall come, when the Sun, it ſelfe ſhall be tur<g ref="char:EOLhyphen"/>ned into darkneſſe, and the Stars ſhall loſe their lights when your ſoules ſhall be bound up againe, with the ligaments of your bodies reorganized with your ſeverall members, and re-inveſted with their ſeverall Endowments, that both may ſuffer together for ever, or thus, when as in your leſt ſience you muſt all enter to make up and to compleat the Cataſtroph of your whole lives, when your bad-Night-watching, Night-dancing Night-Playing, Night-whoring, Night-forgeting of Ieſus Chriſt, muſt and will be brought upon the Stage before Chriſt, that you may be for al<g ref="char:punc">▪</g> and at once doomed
+<pb n="37" facs="tcp:31731:26"/>and Damned, to Hell for ever Chriſt being your Inexorſable judge, whom now you might have, and enjoy as a moſt comfor<g ref="char:EOLhyphen"/>table Friend.</p>
+            <p n="2">2. This point may ſerve for Counſel then you would evidence it to the World, and to your ſelves that you are Chriſts Saints. <hi>Let at be your deſire to lodge and Lie with Ieſus Chriſt by Night.</hi>
+            </p>
+            <p>
+               <hi>Here take theſe.</hi>
+               <list>
+                  <item>1. <hi>Directives,</hi>
+                  </item>
+                  <item>2. <hi>Incentives.</hi>
+                  </item>
+                  <item>3. <hi>Directives, as.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <milestone type="tcpmilestone" unit="unspecified" n="1"/> You muſt be ſo reſolved.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Your deſirs muſt bereally fol<g ref="char:EOLhyphen"/>lowed.</p>
+            <p n="2">2. You muſt ſo reſolved as, <hi>Gant.</hi> 1.13. <hi>He ſhall Lie all Ni<g ref="char:EOLhyphen"/>ght betwixt my breſts</hi> ſo let every one of us ſay likewiſe. And ſo he ſhal lie betwixt my breſt this night and every night and al nights nor will I ever go any more to bed without him or take myreſt with<g ref="char:EOLhyphen"/>out him for he is mychief yea onely reſt becauſe he onely can give me reſt.</p>
+            <p n="2">2. Your deſires muſt be really
+<pb n="38" facs="tcp:31731:27"/>followed as thus.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  Your hearts muſt be duely fitted.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  He muſt be earneſtly ſolicited.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  He muſt be aptly lodged.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Your hearts muſt be duely fitted, as thus.</p>
+            <p n="1">1. Your hearts muſt be opened, for they muſt be like <hi>Villages</hi> which are open, and there fore as <hi>David Pſal.</hi> 24. <hi>at the laſt Verse, Stand open yee Everlaſting Doores, that the King of Glory may Come in.</hi>
+            </p>
+            <p>For ſome mens hearts are like that ſilly flower in the Judies, which openeth it ſelfe againſt the ſun ſeting: &amp; cloſeth it ſelfe, againſt the ſun riſing: For ſo they open themſelves againſt the evill mo<g ref="char:EOLhyphen"/>tions of the Devill, which like the Night<g ref="char:punc">▪</g> And ſhut themſelves a<g ref="char:EOLhyphen"/>gainſt the motions of Chriſt, and that is the reaſon, why all this while, Chriſt never lodged with them one Night, becauſe they cloſed their bodies againſt Chriſt, as not beeing willing to be troubled with Chriſt, like ſome
+<pb n="39" facs="tcp:31731:27"/>men, who ſhut their Doors, by Night, againſt all commers, be<g ref="char:EOLhyphen"/>cauſe they will not be troubled in their ſleepe, but do you not ſo dally with Chriſt, if you meane to lodge, and to lie with Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Qu. </seg>
+               </label> 
+               <hi>Que.</hi> Can I open my Heart.</p>
+            <p>
+               <hi>Anſ.</hi> I know thou canſt not:
+<label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> but Chriſt can: And therefore, pray Chriſt, that as he opened the heart of Lydia, <hi>Acts.</hi> 16. ſo he will open thine.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  Your hearts muſt be enlarged For he is a great King <hi>Malachi.</hi> 1. <hi>the laſt uerſ</hi> And therefore looketh far a large roome, and for great enlargements.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Qu. </seg>
+               </label> 
+               <hi>Que.</hi>
+What ſhall I doe to have my heart Enlarged?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> 
+               <hi>Anſ.</hi> Conſider what a com<g ref="char:EOLhyphen"/>panion Chriſt is by Night, namely the ſweeteſt that you can have, or chuſe: For his mouth is all ſweetneſs the Hebrew hath it <hi>Cant.</hi> 5. <hi>The laſt Verſe.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Your hearts muſt be ſwept and Cleanſed. For nothing muſt be there, that may offend his pure
+<pb n="40" facs="tcp:31731:28"/>eyes, were you to Lodge but a Knight: You would, make clean your Houſes, and ſhould not you, much more, make cleane your hearts, when you are to lodge, the King, of Kings, in your hearts: O Chriſtians, what are ever, you do, ſee, that your hearts, be clean therefore? <hi>Oh,</hi> let no Pride, no, Luſt: no Malice: no Cove<g ref="char:EOLhyphen"/>touſneſſe: no Naughtineſſe: lodg there, and for that purpoſe, pray that, God will give you faith, in Chriſt. For that will purifie your hearts, that they may be fit lodg<g ref="char:EOLhyphen"/>ings for Chriſt. <hi>Acts.</hi> 18.7.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4.Your hearts muſt be garni<g ref="char:EOLhyphen"/>ſhed, with grace, with goodneſſe, Godslineſſe with, holines, with Meekeneſſe, for with ſuch things Chriſt is maruclously pleaſed, as with ornaments, which are, of great price, with God 1. <hi>Pet.</hi> 3.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  Chriſt muſt be, earneſtly So<g ref="char:EOLhyphen"/>licited, as namely, that he will be pleaſed to lie, and tolodge with us all Night. <hi>as here, come my beloved, let us lodge in the Villages:</hi> That
+<pb n="41" facs="tcp:31731:28"/>is, in thy heart, and thou in mine, or as, <hi>Cant.</hi> 4, <hi>the laſt. Let my beloved, come into my Garden, ſo let my beloved, come into my bed, and Lodge with me, all this Night: or thus into thy hands, I doe my ſelfe, commit; Sweet Saviour,: which Heaven doſt Inhabite? O lodge; O Lye, now all this Night, between Breſts my, for my delight,</hi>
+            </p>
+            <p>Nights are terrable, when the Arrows flee, of that wicked one: whome none can ſe; Watch thou therefore, when I do Sleepe, and at my temples ſentrie keepe.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  Chriſt muſt be aptly, lodged, as thus.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  As every Night, when wee, go to lie with an other, we put off our cloaths, ſo being to lie, and to lodge with Ieſus Chriſt, let us put off our ſins, our old cuſtomes which are not good, our evill thoughts, devices, deceits, deeds, that Chriſt may repoſe, himſelfe, with that indeed, ſee <hi>Epheſ.</hi> 4.22.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  As he that goeth to lie, and to lodg, with an other, puts on
+<pb n="42" facs="tcp:31731:29"/>his Night-cloathes, ſo let us put on ours, that is, Holy and Heavenly thoughts of Ieſus Chriſt, as theſe, let a mans meditations be thus: I am now going to lie, and to lodg with the Holieſt, and Faiteſt, of all men, as he is called; <hi>Pſ.</hi> 45. And therefore, <hi>Oh,</hi> what manner of perſon, ought I to be, in all manner of Godlineſſe and holy Converſation. 1. <hi>Pet.</hi> 3.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  As thoſe that lie together, talke together, ſo let us with Ieſus Chriſt, and that about
+<list>
+                  <item>1. <hi>Our Graves, and Death.</hi>
+                  </item>
+                  <item>2. <hi>Our End: His Love.</hi>
+                  </item>
+                  <item>3. <hi>Our future Reſt.</hi>
+                  </item>
+                  <item>4. <hi>His Abſence.</hi>
+                  </item>
+                  <item>5. <hi>Embraces.</hi>
+                  </item>
+                  <item>6. <hi>Darkneſſe.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  About our Graves and Death: As thus, let a man talke.</p>
+            <p>My bed, me think is an Emblem, of my Grave: For as here I Lie. Downe in my bed: So I muſt lie downe in my Grave: But here lies my comfort, that my Saviour hath, by his lying in his Grave,
+<pb n="43" facs="tcp:31731:29"/>Perfumed mine: <hi>Which makes me, to Tryumph upon Death, ſaying, O Death, where is thy Sting, O Grave where is thy, Victory.</hi> 1. <hi>Cor.</hi> 15.5.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  About our end: his love, as thus: Here now I will
+<note n="*" place="margin">
+                  <hi>Cane.</hi> 7.11.</note> give thee my love; O God, my King, my life, my love, my joy: Which I doe, ſo long, ſo deſire, ſo thirſt, to Enjoy; <hi>Oh,</hi> Sweet Saviour, where is thy love, <hi>Oh,</hi> Now, now, Give me thy love, as I am ready to give thee mine; Mine is but weake, and therefore, I beg thine, which is ſtronger then mine, and and can make it as ſtrong as Death: that I may love thee unto Death, <hi>Oh</hi> give it me, and doe not keep it from me, I humbly pray thee.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  About our future Reſt: as <hi>Oh,</hi> how ſweet was but now my ſleepe, my reſt, my repoſe with thee, this Night, and if ſo how ſweet wil be that which is to come when I ſhall come to be refreſhed with him: and by him, whom my ſoule loveth for ever: and
+<pb n="44" facs="tcp:31731:30"/>when I ſhall clearely ſee him, though now I cannot: I grant, that if two Bodies were placed be yond the tenth ſphere they would not be able ſee to one another, becauſe they want, a mediaum, to convey light one, to the other, but as for Chriſt, him we ſhall ſee, as he is, when we ſhall be above, the tenth ſphere, becauſe in his own light we ſhall ſee him, who is our light, and therefore let us talke with him, about it, that our ſoules may take delight, and pleaſure in it, or thus: if this naturall ſleep, be ſo comfortable, Oh, how com<g ref="char:EOLhyphen"/>fortable, will be, that reſt which is to come, when I ſhall, onely walke and no more ſleepe, feele, and no more faint and no more ſeeke.</p>
+            <p>About Darkeneſſe,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> as thus: <hi>Oh,</hi> what a Diſmal thing, is this Dark<g ref="char:EOLhyphen"/>neſſe, if al the men on earth ſhould combine againſt it, they are not able to diſpell it, but the light can, ſo lord Ieſus Chriſt chaſe away al the Darkneſſe, of life, which is in
+<pb n="45" facs="tcp:31731:30"/>me, and free me from the very Blackneſſe, of Darkneſſe, which is meaned againſt me, and there<g ref="char:EOLhyphen"/>fore, doe ſo lord, Ieſus, I Humbly pray thee, or thus, Oh, how terrible is this darkneſſe and ſo is my pride my Paſſion, my Luſt, my Malice but if theſe will both appeare a<g ref="char:EOLhyphen"/>gainſt it, it muſt needs vaniſh: ariſe, therefore, ſweet Saviour, and ſhine in the midſt, of this Darkneſſe, and diſpell it. Oh, Sun of Righteouſneſſe, ſhew thy ſelfe, and deliver me from this Darkneſs who have lowed Darkneſſe, more then light, that I may ſee thy marvelous light.</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5.  About his abſence, if namely we cannot find him like the ſpouſe <hi>Cant.</hi> 3.1. As thus hath not the Lord, Promiſed me, that he will be allwaies with me: Saying, <hi>loe, I am with you Alwaies, Math.</hi> 28. And therefore how cometh, this to paſſe, that the Lord is ſuch, a ſtranger to me, this time of Night that I cannot, neither ſee him, nor feel him, nor heare him, is this to
+<pb n="42" facs="tcp:31731:31"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="43" facs="tcp:31731:31"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="47" facs="tcp:31731:32"/>be alwaies with me? <hi>Ah,</hi> Lord how can it be alwaies, if not now, and therefore now Lord, now, and for all this Night, I humbly Pray thee.</p>
+            <p n="6">
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6.  About Embraces: as thus, <hi>Cant.</hi> 2.6. <hi>It is Written, His left Hand, is under my Head, and his Right Hand, doth Embrace me:</hi> The ſenſe of which Words is this, his left Hand, that is, his puniſh<g ref="char:EOLhyphen"/>ments, are under me, by reaſon of him, who is my Head: and his right Hand, that is, Pleaſures for Evermore doe Encompaſſe me, and therefore Lord Ieſus, let thy Puniſhments, which I have deſerved not be inflicted: But rather let the Pleaſures which are at thy Right-Hand, for Evermore, now over flow me, I humbly Pray thee.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4.  As Chriſts left hand is under our heads, ſo let our left hands that is, let our temporals be under his head, my meaning is this, let us mind him who is our head more then our temporals; I pray you think upon it, for commonly we
+<pb n="46" facs="tcp:31731:32"/>ſpend much of our time by Night, in caring and carking about the things of this life, but let it be ſo no more, though we have done ſo in times paſt, let that time paſt ſuffice, and let the thing here be no longer ſo neere; for if they be neere, Chriſt cannot be neere, and therefore let them be under and him over, I beſeech you.</p>
+            <p n="5">5. As he with his right hand embrace us let everyone of us with his right hand of faith embrace him, that is, let us lay hold on him as the ſpouſe, <hi>Cant.</hi> 3.3. be<g ref="char:EOLhyphen"/>leeving verily that he will lie and lodge with us graciouſly this night, and ſo every night, yea eter<g ref="char:EOLhyphen"/>nally, which God in mercy grant.</p>
+            <p n="2">2. Now incentives, conſider that this lying and lodging with Chriſt by night is a thing
+<list>
+                  <item>1. Moſt comely.</item>
+                  <item>2. Moſt ſweet.</item>
+                  <item>3. Moſt thrifty.</item>
+                  <item>4. Moſt Heavenly.</item>
+               </list>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  Moſt lovely, for ſo himſelfe is characterized, he is altogether
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb n="49" facs="tcp:31731:33"/>
+               <hi>Solomons, Cant.</hi> 3.7. Meaning heaven, laſt, and his heart firſt, ſo expoſitors, explicate, that high and lofty paſſage, and ſo the Saints find it that thus they are in heaven, when thus they be with Chriſt by Night, being ſeparated from the world, ſeparated from Sinners, weaned from ſinfull, and ſenſual delights, enſouled in God, heavened in Chriſt, and ſublima<g ref="char:EOLhyphen"/>ted, to the higheſt zenith of Chriſt deareſt and neareſt ſociety, which hereafter ſhall be contained, to all eternity, and ſhould not all this make, and move us all, to lodge with Chriſt every Night, for our ſoules delight.</p>
+            <p n="5">
+               <note place="margin">The 5th. <hi>Doctrin.</hi>
+               </note>5thly, I obſerve heare, that ſaints have mighty longings, together, with Chriſt,
+ together, with Chriſt, to viſit thoſe heavenly manſions, which are like unto <hi>Vineyards:</hi> and this point I doe but name alſo, becauſe I haſten, to the principall.</p>
+            <pb n="50" facs="tcp:31731:33"/>
+            <p n="6">
+               <note place="margin">The 6th. <hi>Doctrin.</hi>
+               </note>6thly,  I will name but one more, and then come to that which I chiefely aime at.</p>
+            <p>The lovers of Chriſt are very much bent together with Chriſt and aſſoone as they may, to viſit, their bretheren, and fellow-ſaints who by Goſpell-preaching, have been made the <hi>Vineyards,</hi> of Chriſt, 7<hi>thly,</hi> I note that Chriſts eſpouſed Saints have a great deſire,
+<note place="margin">The 7th. <hi>Do<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi>
+               </note> to be up very early, in the morning for and with Chriſt.</p>
+            <p>For the Illuſtration hereof I ſhall propoſe and Reſolve theſe 3, <hi>Queeries.</hi>
+               <note place="margin">3 Quer</note>
+            </p>
+            <list>
+               <item>
+                  <hi>The,</hi> 1. <hi>Is how for him,</hi>
+               </item>
+               <item>
+                  <hi>The,</hi> 2. <hi>How with him.</hi>
+               </item>
+               <item>
+                  <hi>The,</hi> 3. <hi>Why both.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>For the</hi> 1.
+<note place="margin">1 Querie. <hi>Reſolved.</hi>
+               </note>
+            </p>
+            <p>I Anſwere to it. That it is (1) to <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb n="53" facs="tcp:31731:34"/>to take a journey from home; ſo they, as they have had him in their hearts, when they weare a<g ref="char:EOLhyphen"/>bed, ſo they deſire to have him, in their minds, when they are up: To take a journey for Heaven and ſo they carry him, as they rife with him, to the place where they are wont to diſplace all their Wordly cares,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> and to powre out their moſt ardent praiers, mingled with many warme, and bleſſed, ſhowers of their gracious teares, like bleſſed <hi>Mary,</hi> which ſo ſought him Weeping, <hi>Iohn</hi> 20.15.</p>
+            <p n="3">3. Why? both ſo early. I Anſwere</p>
+            <p n="1">1. <hi>When the Morning comes, light cometh.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  <hi>When the Monning comes<g ref="char:punc">▪</g> joy comes.</hi>
+            </p>
+            <p n="3">3. <hi>When the Morning comes, ſtrongth comes.</hi>
+            </p>
+            <pb n="54" facs="tcp:31731:34"/>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4.  <hi>When the Morning comes, opening comes.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  Light cometh, for the Morning brings that light, which the ſun ſheds abroad, in all the World, and as thereby light come<g ref="char:EOLhyphen"/>eth, into the World, ſo by Chriſt light then cometh into the heart, <hi>For Chriſt wil give thee light, Quoth the Apoſtle, Epheſians.</hi> 5.14. Vnder<g ref="char:EOLhyphen"/>ſtand in the morning chiefly, in that being that bright and Morning <hi>Starre,</hi> he doth very early a riſe in our hearts, when we have very early ſought him with all our hearts <hi>Pro.</hi> 8.17.</p>
+            <p n="2">2. Joycometh. For the morning is
+<note n="*" place="margin">Aurora, quaſi Avium Hora.</note> 
+               <hi>quaſi avium hora,</hi> that is, the birds nowre, becauſe it exhilarates and makes thoſe ſilly creatures ſo merry, as to ſing that time more ſweetly then any other time. Now as the Morning makes thoſe poore creatures, ſo glad, ſo it makes us, when we are early up with Ieſus Chriſt, and Chriſt with us: then
+<gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb n="57" facs="tcp:31731:35"/>Chriſt himſelfe, we do lay open our very hearts to Chriſt telling him as <hi>Samſon</hi> did <hi>Dalila</hi> all that is in our hearts, <hi>Judges,</hi> 16.17 A<g ref="char:EOLhyphen"/>gain, our mouthes are open then, when crying a loud as <hi>David</hi> did, when he did riſe in the morning <hi>Pſal.</hi> 5.2.3. We give the Lord no reſt, till we ſee heaven open with <hi>Stephen,</hi> and the ſon of man ſtand<g ref="char:EOLhyphen"/>ing at Gods right hand who but the night before did embrace us with his right hand; all this com<g ref="char:EOLhyphen"/>eth to be ſo when the morning cometh, and therefore Chriſts e<g ref="char:EOLhyphen"/>ſpouſed Saints do ſo deſire to be up ſo early with him and for him in the morning.</p>
+            <p>
+               <note place="margin">The 1 Use</note>The 1. Uſe Uſe of the point will be a uſe of interrogation, and commination. Then what are we? When one of the ancient fathers had read the 5.6.7. chapters of <hi>Matthew</hi> he clapt up the book, &amp; ſaid, either theſe are not the words of Chriſt, or we are not chriſtians; ſo I, either theſe words which I
+<pb n="58" facs="tcp:31731:35"/>have choſen touching early riſing, are not the ſpirits of God, and the ſpouſes of Chriſt, or we for the moſt part are not eſpouſed to Chriſt. For how few ſhall a man ſee or heare of, that will riſe ſo early with, and for Chriſt. For the world there be enough that will riſe early enough; ſo for miſchiefe, ſo for drink, that we read <hi>Eſa,</hi> 5.11 ſo for idle-worſhip, for eating and for playing <hi>Exo.</hi> 32.6. But tell ſuch of Chriſt that he muſt be ſought, and ſerved early, and they will all with one conſent excuſe themſelves as thoſe, <hi>Luke</hi> 14.18. One will ſay, that he cannot riſe, becauſe he is weake; another, be<g ref="char:EOLhyphen"/>cauſe he is married to a wife, from which he cannot come, a third, that he cannot riſe ſo ſoon, becauſe he cannot wake ſo ſoone; a fourth, that he cannot be up ſo early, becauſe he goeth to bed ſo late, or becauſe he cannot ſleep the firſt of the night, or for fear that he ſhall be ſick. But let me tell
+<pb n="62" facs="tcp:31731:36"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="63" facs="tcp:31731:36"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="60" facs="tcp:31731:37"/>you my friends 1. what wil become of you that can riſe for the world, for drink, for miſchief, for play, neglecting Chriſt; the time will ſhortly come when that inexora<g ref="char:EOLhyphen"/>ble meſſenger, whoſe name is the firſt death, will unfleſh you, and when he hath done, the ſecond death will follow after, and hell will have you; for <hi>woe unto them that riſe up early in the morning, that they away follow ſtrong drink, Eſa.</hi> 5.11. The like may be ſaid of others; wóe unto them that riſe early to do miſchief, and to follow the world with all their might, not caring for Chriſt.</p>
+            <p n="2">2. And as for you that love your beds ſo wel, as that you can<g ref="char:EOLhyphen"/>not riſe at all, but ſay, yet a little ſleep, yet a little ſlumber, you are but a company of ſluggards, For ſo the ſpirit of God cals you, and therefore you muſt looke for the ſluggards portion, and what is that you wil ſay? I anſwer, it is
+<pb n="60" facs="tcp:31731:37"/>poverty, <hi>Prou.</hi> 6.6.11. That is, you ſhall want for ever, if being out of Chriſt, you care not for Chriſt, to riſe with Chriſt, like purpurall <hi>Dives,</hi> who wanted a drop of wa<g ref="char:EOLhyphen"/>ter to coole his tongue when he was tormented in his tongue, as he lay frying in the armes of ever<g ref="char:EOLhyphen"/>laſting flames; and if you be in Chriſt, and yet will not, as others do, riſe early for Chriſt, Chriſt wil not riſe for you, to juſtifie you with the brightneſſe of his face, or to inrich you with the riches of his grace, when others who are more gracious, are refreſhed with his likeneſſe, greatned with his goodneſſe, being even fraighted by him to the full, and ſublima<g ref="char:EOLhyphen"/>ted by him to the higheſt top of vertues preferment, then you ſhall be emptie and beggerly, low and leane, void of al conſolation, and full of confuſion.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>2</label> 2. For excitation, as thus.</p>
+            <p n="1">1. If then you cannot riſe with
+<pb n="62" facs="tcp:31731:38"/>and for Chriſt in the morning, you muſt get your ſelves eſpouſed to Chriſt, for then you wil, becauſe it is the deſire of ſuch ſo to riſe with and for Chriſt.</p>
+            <p>
+               <hi>Q.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Q </seg>
+               </label> How get our ſelves maried to Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">A </seg>
+               </label> I <hi>anſwer</hi> thus,
+it is written, 2 <hi>Cor.</hi> 11.2. <hi>I have eſpouſed you to one Husband, namely Chriſt,</hi> and therefore.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. You muſt deſire God that he will, by one Miniſter or o<g ref="char:EOLhyphen"/>ther, eſpouſe you to his deare Son, that you alſo may riſe with his ſon. Beloved, it is not to be beleev'd what power there is in the prea<g ref="char:EOLhyphen"/>ching of a Miniſter which eſpou<g ref="char:EOLhyphen"/>ſeth ſoules to Chriſt; Chriſt is ſo declared, his beauties ſo diſplayed, his rarities ſo opened, his ſweet<g ref="char:EOLhyphen"/>neſſe ſo extol'd, his merits ſo ex<g ref="char:EOLhyphen"/>panſed, his unſearchable riches ſo elevated to the zenith of higheſt commendation, as that ſouls muſt needs be enamored with him, when they heare ſo much of him, and therefore pray heartily to
+<pb n="63" facs="tcp:31731:38"/>God that ſuch a one may be ſent from God, and when he is ſent hear him, that you may be eſpou<g ref="char:EOLhyphen"/>ſed to Chriſt by him.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  You muſt follow as <hi>Rebecah</hi> did <hi>Eleazar.</hi> Beloved, beleeve it, that I, for my part, am come for you, and to you, this time purpoſe<g ref="char:EOLhyphen"/>ly to eſpouſe you to my Maſter <hi>Iſaac,</hi> I ſhould ſay, Jeſus Chr. who hath ſent me to tell you ſo much that he will marry you <hi>Hoſ.</hi> 2.19 and therefore what ſay you? will you that Chriſt ſhall marry you? if it be your mind that he ſhall, then let every one of you ſay in his heart, I will, I will, with all my heart, if God will but put faith to take him into my heant. Oh Lord I beleeve help, my un<g ref="char:EOLhyphen"/>beliefe.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  As for thoſe that are reputed to be unto Chriſt eſpouſed, if they would be thereof aſſured, let them manifeſt it by their holy deſires
+<pb n="64" facs="tcp:31731:39"/>to riſe very early in the morning with and for Ieſus Chriſt.</p>
+            <p>Here take theſe
+<list>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.
+Inſtructions, with you.</item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.
+Conſiderations, with you.</item>
+               </list>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  Inſtructions.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  You muſt be Reſolute.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  Active.</p>
+            <p n="1">1. Reſolute, as the ſpouſe <hi>Can<g ref="char:EOLhyphen"/>ticles,</hi> 3.2. <hi>I will riſe now</hi> &amp;c. as if ſhe ſhould ſay, what do I heare, here is nothing but heavieneſſe &amp; ſlug giſhneſſe, dimneſſe and dull<g ref="char:EOLhyphen"/>neſſe, diſconſolateneſſe and diſ<g ref="char:EOLhyphen"/>mayedneſſe becauſe he is abſent from me who is wont to ſolace me, and therefore I will come away from my bed of eaſ, and riſe with, or rather before the Sun is up, that the Sun of rightouſneſſe may give me his heavenly eaſe; I was wont to love my bed as much as any,
+<pb n="65" facs="tcp:31731:39"/>but now for Chriſts ſake I loath it, and therefore by the grace of God I will leave it for theſe; ſo do ye reſolve likewiſe, ſaying, Lord we take up here this ſolemne re<g ref="char:EOLhyphen"/>ſolution before thee, that for the time to come we will all become as great early riſers with thee, as any thou haſt that love thee; our beds we did love, that is certaine, but love them ſo as we did, we wil no more whilſt we live, but ra<g ref="char:EOLhyphen"/>ther we will leave them when the ſhadowes flee a way, and riſe we will aſſoone as the day appeareth, to riſe with thee and for thee as long as we live, and this we will begin to do to morrow, God wil<g ref="char:EOLhyphen"/>ling, and ſo every morning by Gods bleſſing, till we are dying.</p>
+            <p n="2">2. Active, as thus.</p>
+            <p n="1">1. Offering violence to your<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  To Chriſt himſelfe.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  To your ſelves, thus.</p>
+            <pb n="65" facs="tcp:31731:40"/>
+            <p>Becauſe nature is fraile, and the Devil ſtrong, you muſt ſtrive and ſtrugle mightily to come away from your beds of eaſe, as if you were to win a city; for what ſaith the fleſh, then what ſaith eaſ, what ſaith cuftom, Oh it is too ſoon, too ſoone, yet a little ſleep, yet a little ſlumber, an houre hence it is ſoon enough to riſe hence; and if then we do not ſtruglagainſt the ſtream to get up, wee go down amain, downe with the ſtreame and lie ſtill till 8. til. 9 may ten; and there<g ref="char:EOLhyphen"/>fore get up againſt the ſtreame, break your cuſtome, break ſleepe, and break away from your beds, by force forcing yourſelves to riſe, and leaping over your beds, as gyants and conquerors over wals, to win, to gaine, to obtaine the Maſtery over your owne natures, if thereby you know your ſelves to be dull and ſleepy, and let not your beds hold you when Chriſt will have you to be up, to hold correſpondence with you.</p>
+            <pb n="66" facs="tcp:31731:40"/>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  Offering Violence to Chriſt.</p>
+            <p>Chriſt, and heaven are convex, or convexed; and therefore, looke as we muſt deale with one, ſo with the other, as for heaven, that you know muſt be taken by vio<g ref="char:EOLhyphen"/>lence, ſaith Chriſt himſelfe, pe<g ref="char:EOLhyphen"/>remptorily by, <hi>Matth.</hi> 11.12. and ſo ſay I of Chriſt<g ref="char:punc">▪</g> ſemblably, that if we will have him, riſing for him, or keep him, riſing with him, we muſt offer violence, to him: Beloved we muſt wen wreſtle with the Lord, that time, as <hi>Jacob</hi> did, in olden time, <hi>Gen.</hi> 32.24. That is, we muſt tell him, in plaine termes, that we will have him upon any termes: we muſt encounter him with the pro<g ref="char:EOLhyphen"/>miſes of his word: For they are a Chriſtians Sword; As for ex<g ref="char:EOLhyphen"/>ample. <hi>Prov.</hi> 8.17. &amp; <hi>Matth.</hi> 28.20. <hi>I am with you alwaies.</hi>
+            </p>
+            <p>Hereupon, let a devout ſoul
+<pb n="68" facs="tcp:31731:41"/>ſay to the Lord, being riſen for the Lord; Lord, I am up according to thy word, but that cannot pleaſe my ſoul, nor content my heart, nor ſatiſfie my ſpirite<g ref="char:punc">▪</g> unleſſe I can ſee thee alſo in my ſpirite, my ſpirit therefore giveth thee no reſt, till it can ſee thee, after my natu<g ref="char:EOLhyphen"/>rall reſt. For in thee, I enter my chiefeſt reſt. Reſt naturall is good, but thine is better; and therefore, as I am riſen, ſo let God, let Chriſt, let my beloved, riſe too. <hi>Ah</hi> Lord? The Sunn is riſen, or riſing upon me, and the light thereof doth ſhine about me, but where is the light of thy counte<g ref="char:EOLhyphen"/>nance, which ſhining within me, will infinitely more refreſh me. <hi>Ah, Shine, Shine, Shine:</hi> Thou pleaſant and bleſſed ſun of Righ<g ref="char:EOLhyphen"/>teouſneſſe, as the ſun now ſhineth, nay before the ſun is up, (If thou art up before it,) for thou art before it, and as the darkneſſe now fleeth away, ſo let my finnes flee away &amp; as I now do, or ſhall ſee
+<pb n="69" facs="tcp:31731:41"/>that admirable lamp of heaven, ſo let me ſee thee, that glorious ſun of Righteouſneſſe, I humbly pray thee.</p>
+            <p>
+               <hi>Or thus.</hi>
+            </p>
+            <p>
+               <hi>Ah,</hi> this Night I have enjoyed thee, ſweet and deare ſaviour, ſo I deſire to riſe with thee, and therefore, come Lord Ieſus, come, let us riſe both, I with thee, and thou with me, I humbly pray thee: <hi>Ah,</hi> my love, I deſire to have thee with me in that very place where I am wont to place my ſelf, to diſplace drouſineſſe, and to make roome for Godlineſſe, and to talk with thee, as if it were face to face, and therefore Lord leave me not, for I wil not leave thee, till thou go with me, and bleſſe me. Deare love, haft thou not ſaid ex<g ref="char:EOLhyphen"/>preſſely, Loe, I am with you all— wayes, and wilt thou leave me now? <hi>Ah,</hi> farr be it from the Lord ſo to deal witha poor creatur
+<pb n="70" facs="tcp:31731:42"/>which deſireth to enjoy this, infi<g ref="char:EOLhyphen"/>nitly more then anyother creatur. Beſides, how can the Lord be true, in all his ſayings, if he be not in this, Loe I am with you alwaies, if now the Lord do leave me here be earneſt with the Lord, and ſhew him the Book, the verſe, the place where His promiſe lieth, and tell him: Lord, ariſe therefore with me, and ſhew thy ſelfe to me, I Humbly Pray thee.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  <hi>Conſiderations, as.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>Conſider, What good early riſing will doe.</hi>
+            </p>
+            <p n="2">2. <hi>What good this violence will doe.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  <hi>Early riſing.</hi>
+            </p>
+            <p n="1">1. <hi>It will ſpeed all our worke.</hi>
+            </p>
+            <p n="2">2. <hi>It wil chaſe away all our Enemies.</hi>
+            </p>
+            <p n="3">3. <hi>It will ſweeten, our preſent Morning Sacrifice.</hi>
+            </p>
+            <pb n="70" facs="tcp:31731:42"/>
+            <p n="4">4. <hi>It will put us into a gracious Tamper all the Day after.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  It will ſpeed all our work, For in the Morning is al the ſpeed, that is a Proverb amongſt us, and we ſhall finde it true, as God is true; When riſing early, you ſhal get Chriſt to riſe with you, we can doe our other work with eaſe, when we have been up very early with Chriſt, for his eaſe: when <hi>Jacob</hi> had been thus early up with his God, he ſped the bet<g ref="char:EOLhyphen"/>ter afterward, when he met with his Brother. <hi>Gen.</hi> 32. So we, when we have been up with Chriſt, before the ſun is up with us, we fare the better, when other things come to be taken in hand by us, whereas elſe, if we lie it out till, 7.8. Or 9. Our maine worke, lieth behind, and our other worke too lieth back, becauſe we riſe no ſooner to doe it. <hi>Oh!</hi> it is a mighty ſpeeding, if a Chriſtian, walking with God, when he hath been very
+<pb n="72" facs="tcp:31731:43"/>early talking with God: And therefore let us riſe, let us riſe, my bretheren early, that Chriſt may be found of us graciouſly, and all our worke may ſpeed the more bleſſedly.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  It wil chaſe away all your Ene<g ref="char:EOLhyphen"/>myes, for <hi>Aurora, eſt latronum ex<g ref="char:EOLhyphen"/>pulſiva.</hi> That is, the Morning, will chaſe theeves, &amp; murderers; theeves, that would be out, by Night, cannot abide to be abroad when it is light; ſo ſin, ſo Sathan, who troubled us with evill thoughts, before it was day, will ſhun us, and flee away from us, when by prayer, we betake our ſelves to Chriſt aſſoone as it is day, and wreſtle with his Majeſty. <hi>Ah,</hi> my bretheren, it is not to be conceived what a mighty Enemy to ſin and temptations are our early devotion, thereby we ſtrangle our luſts, trucidate our pride, proſtrate the world, ſuperate our paſſions, &amp; become Conquerers, over all on
+<pb n="72" facs="tcp:31731:43"/>terrors, for when the day appeareth the darkneſſe fleeth, and naturall fear ceaſeth, becauſe the light ſhineth, Chriſt I meane, who is the light of the world, and ſhineth into our hearts, then when being up very early, we ſeeke him with all our hearts, that we may be Maſter over the world, and not overcome by the world.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  It will ſweeten our morning ſacrifice; for <hi>aurora eſt roris inſuſiva</hi> that is, the morning doth infuſe the dew, for which cauſe it is cal<g ref="char:EOLhyphen"/>led <hi>aurora, quaſi aura rorans;</hi> now dew is ſweet, ſo the morning ſpent in duty and improved to Chriſt will encreaſe and ſweeten all our prayers we make to Chriſt, Chriſt being pleaſed to ſpeak to us when we ſpeak to him, and refocillating my ſpirit and thy ſpirit, when you and I do worſhip him in theſpirit. For that is his faſhion, his cuſtom, his wonted courſe, then to viſit ſouls with his celeſtial conſolation
+<pb n="73" facs="tcp:31731:44"/>when ſouls viſit him in their early devotion: devotions, me thinketh, are never ſweeter therefore, then at that time, when being up be<g ref="char:EOLhyphen"/>time we are talking with God, be<g ref="char:EOLhyphen"/>fore we have talked with man, can ſee the face of Chriſt, before we have ſeene the face of a chriſtian, that is, before we have beene a<g ref="char:EOLhyphen"/>broad among men, who common<g ref="char:EOLhyphen"/>ly hinder us ſo much, as that we cannot as we ſhould, be converſant with Chriſt: they that love their beds, their ſleep, their reſt, will ſay, Oh! ſleep is ſweet, in the morning eſpecially; and I was ſweetly a ſleep before ſuch a one awak'dme, and loth are ſuch to be troubled therefore in their morning ſleep; but I do, and will ſay ſo ſtill, that Chriſt is ſweeter, and early riſing to talke with Chriſt, ſweeter. For when we do then talk with him, he is wont to talke with us, and when he ſpeaketh to us with his mouth, his mouth is altogether ſweet, yea ſweetneſſe it ſelfe; and
+<pb n="74" facs="tcp:31731:44"/>when it is ſo, his ſaying of himſelf is found true, that he is that <hi>Man<g ref="char:EOLhyphen"/>nah,</hi> which came from Heaven, For he is as ſweet to our ſouls; as that other <hi>Mannah</hi> was, which feaſted ſo many hundred ſouls; &amp; we are for the preſent, whilſt we are in prayer as it were in heaven.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4.  It will put us in a gracious temper for all the day after; <hi>For the morning is
+<note n="*" place="margin">Aurora eſt caloris t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mperaiiva</note> cooling, Gen.</hi> 3.8. They that ſweat by night, yet be<g ref="char:EOLhyphen"/>gin to cool in the morning, ſo we when having beene in a ſweat, as it were by night, about many things which did then trouble our thoughts; as for example, our predeſtination before al time, and our juſtification in time, we riſe very early for Chriſt, are common<g ref="char:EOLunhyphen"/>ly refrigerated exceedingly, &amp; be<g ref="char:EOLhyphen"/>dewed moſt ſweetly by the ſpirit of Chriſt, and when his ſpirit hath ſo refreſhed our ſpirits, we reliſh what his bedewing of us is, and taſte as it were the ſweetneſſe of it all the day long, and find our ſouls to be in ſo ſweet a condition,
+<pb n="75" facs="tcp:31731:45"/>as that we can ſerve God the bet<g ref="char:EOLhyphen"/>ter ever after, being put upon any gracious action<g ref="char:punc">▪</g>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  Conſider what good it will do to us.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  It will prevaile with us.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.  It will prevaile with Chriſt.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.  Both wil place us in heaven with Chriſt?</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.  It will prevaile with us I confeſſe, we may find hard work of it at firſt, being given to ſlum<g ref="char:EOLhyphen"/>ber, but violence will maſter us, if God ſanctifie it to us, for what is violence think you? it is are moving of a thing out of his place; ſo much the Hebrew importeth, ſo the Arablick alſo.
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>A quinus in</hi> 7 <hi>phyſ. l.</hi> 1 <hi>c.</hi> 1.</note> 
+               <hi>Aquinus</hi> defines it thus, when a thing is moved from one thing to another; where to it hath no proper aptneſſe of its own nature, that is violence, and that
+<pb n="76" facs="tcp:31731:45"/>which violence forceth, will do more then that which ſhamefaſt<g ref="char:EOLhyphen"/>neſs perſwades, ſo quoteth
+<note n="*" place="margin">Vale<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Max. l. 3.</note> ano<g ref="char:EOLhyphen"/>ther. Whereupon I infer, that therefore by God's help wee may force our bodies to remove from their beds, if there they were wont mornings to lie, as in their proper place, and had no apti<g ref="char:EOLhyphen"/>tude of themſelvs to riſe, and that when no perſwaſion or intreat<g ref="char:EOLhyphen"/>ing would do it; force, which go<g ref="char:EOLhyphen"/>eth beyond all ſhame, will carrie it; and therefore force your ſelvs every morning from the place of ſleeping to the place of praying, praying Chriſt to ſanctifie unto you the violence which is uſed by you.</p>
+            <p n="2">2. It will prevail with Chriſt. Chriſt in the beginning of your praying may bee ſtrange too; for it is his cuſtom ſo to do. I for my part finde it ſo, and ſo do muſt they that ſeek him, I do be<g ref="char:EOLhyphen"/>liev; witneſs Jacob, the woman of Cana an, and others; but go
+<pb n="77" facs="tcp:31731:46"/>on a while, and perſiſt in praying, or that which wee call wreſtling; no violence like that which wee uſe in praying: But then this vi<g ref="char:EOLhyphen"/>olence, as
+<note n="*" place="margin">
+                  <hi>Aver,</hi> 3 <hi>de coelo</hi> text. 10</note> one noteth, is a thing, which though it move, yet will not do ſo alwaies, but in <hi>aliqua hora,</hi> that is, <hi>in a certain hour;</hi> a ſpeech I much wonder at, as it cometh from him, about a thing there treated on by him; but not to bee wondred at here, becauſe the morning time which I treat of, is ſuch a time indeed, wherein violence will more ſpeed than any other time, when in praier with Chriſt wee meet. I confeſs it is alwaies good, but then eſpecial<g ref="char:EOLhyphen"/>ly, becauſe it meets with a power<g ref="char:EOLhyphen"/>ful help as the morning is, which then doth help. This made Ja<g ref="char:EOLhyphen"/>cob, that great and mighty cham<g ref="char:EOLhyphen"/>pion, ſo victorious, becauſe hee roſe ſo ſoon, and wreſtled ſo ſtoutly at the break of the day, and made him even get the day. His riſing firſt gained Chriſt
+<pb n="78" facs="tcp:31731:46"/>ſweeteſt preſence, his violence kept it, and a gracious bleſſing ſweetly crowned it. For vio<g ref="char:EOLhyphen"/>lence will ſurely cauſe an altera<g ref="char:EOLhyphen"/>tion, becauſe it will cauſe a brea<g ref="char:EOLhyphen"/>king through (as the *Hebrew hath it) a breaking through, a rapture, a remove, whereby chan<g ref="char:EOLhyphen"/>ging place, and being wrapt up, as it were, into heaven, wee fetch down Chriſt from heaven, and force him, as it were to bleſs us, before hee leavs us. For this is the language of a Saint, <hi>I will not leav thee till thou bleſs mee,</hi> which when Chriſt ſeeth that wee will not let him go, hee goeth with us, and is intreated by us, before wee go from him. I can (to God's glorie bee it ſpoken) fay it by experience, that I ſeldom tried it, but ſo found it; and the reaſon is, becauſe hee hath bound himſelf by his own ſaying, <hi>Pro.</hi> 8.17. from which hee cannot go; and therefore never let ns go from him without him, but ſtrive,
+<pb n="79" facs="tcp:31731:47"/>but ſtruggle, but offer him vio<g ref="char:EOLhyphen"/>lence, to gain and to keep his ſweet and bleſſed preſence.</p>
+            <p n="3">3. It will place us even in hea<g ref="char:EOLhyphen"/>ven with Chriſt. For by it the ſoul of a Saint is looſened from the ligaments of the bodie, his reaſoning is ſo raiſed on high, hee is ſo tranſlated into heaven, hee doth ſo over-look earthly things, is ſo collocated near the regal throne of God, though hee bee an illiterate man, though a poor man, as that when hee is ſo, hee mindeth nothing but heaven, ſee<g ref="char:EOLhyphen"/>eth nothing but heaven, feeleth nothing but heaven: heaven is in his deſires, heaven is in his eie, hea<g ref="char:EOLhyphen"/>ven is in his heart, and heaven is his reward. For by it hee feedeth on the bread of Angels, which cometh down from heaven, his ſolace is the ſolace of heaven, and his joy the joy of heaven: ſo Ja<g ref="char:EOLhyphen"/>cob was in heaven as hee was wreſtling with the God of heaven, and ſo may you bee, if you will
+<pb n="80" facs="tcp:31731:47"/>do as hee did: And therefore it is good for a man to bee a mighty man in praier, a wreſtler, an ear<g ref="char:EOLhyphen"/>ly riſer, a moſt zealous ſutor and orator to the throne of grace, be<g ref="char:EOLhyphen"/>cauſe that bringeth the greateſt ſolace, and carrieth a man's ſoul to heaven. Strive therefore, Oh ſtrive! dear brethren and fellow-Chriſtians, and bee men of prai<g ref="char:EOLhyphen"/>er; bee fervent, bee importunate, bee wreſtling with Chriſt in pray<g ref="char:EOLhyphen"/>ing, when early you are up in the morning, that having left your beds on earth, you may make your bed in heaven, where now I leav you.</p>
+            <closer>Soli Deo gloria.<lb/>To God onely bee all glorie.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:31731:48"/>
+            <p>THere is lately extant, a Trea<g ref="char:EOLhyphen"/>tiſe of the Four laſt things, <hi>Death, Judgment, Hell</hi> and <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> by <hi>Simon Birckbeck,</hi> Miniſter at <hi>Gilling</hi> in Richmondſhire; al<g ref="char:EOLhyphen"/>ſo Family-Religion revived, or a Treatiſe, as to diſcover the good old way of ſerving God in pri<g ref="char:EOLhyphen"/>vate houſes, ſo to recover the pi<g ref="char:EOLhyphen"/>ous practice of thoſe precious du<g ref="char:EOLhyphen"/>ties to their primitive platform, by <hi>Philip Goodwin,</hi> Miniſter of the Goſpel at <hi>Watford</hi> in Hartford<g ref="char:EOLhyphen"/>ſhire. A Treatiſe of <hi>Faith,</hi> where<g ref="char:EOLhyphen"/>in is methodically handled the Nature of Saving, Juſtifying Faith, in oppoſition unto Counterfeit; Helps thereunto preſcribed, Hin<g ref="char:EOLhyphen"/>derances thereunto removed, and ſeveral other Goſpel-truths clear<g ref="char:EOLhyphen"/>ly diſcuſſed, by <hi>N.W.</hi> late of <hi>Lee</hi> in Eſſex: Alſo the <hi>Complete Poli<g ref="char:EOLhyphen"/>tician,</hi> or <hi>policie put in practice,</hi> wherein the principles of policie are laid open to the view of all,
+<pb facs="tcp:31731:48"/>and the practice of it by the An<g ref="char:EOLhyphen"/>cients, diſcovered to theſe latter times, illuſtrated with many ex<g ref="char:EOLhyphen"/>cellent rules both Divine and Moral, a Work uſeful for theſe times. All theſe are printed for, and ſold by <hi>Edward Brewſter,</hi> at the Crane in Pauls Churchyard.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
